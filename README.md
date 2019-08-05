@@ -15,6 +15,6 @@ Firebase push notification for android application
 * get device token from android app
 * get server key from firebase account
 
-## Place relayx-128a6-firebase-adminsdk-25qss-e36af83413.json file at server secure location and mention that path in application.properties file.. ##
+## Place mytoshika-128a6-firebase-adminsdk-25qss-e36af83413.json file at server secure location and mention that path in application.properties file.. ##
 
 
